@@ -36,15 +36,26 @@ client.on("ready", () => {
 client.on("messageCreate", (message) => {
   if (message.author.bot) return;
   msg = message.content.toLowerCase();
-
-  if (msg.startsWith(prefix + "maymun")) {
-    message.channel.send("@CIO");
+  if (msg.startsWith(prefix + "altın çocuk")) {
+    message.channel.send("Muhammed Emin Beköz ?");
+  }
+  if (msg.startsWith(prefix + "mal")) {
+    message.channel.send("Emre Özmen mi demek istediniz ?");
+  }
+  if (msg.startsWith(prefix + "allah")) {
+    message.channel.send("efendim?");
   }
   if (msg.startsWith(prefix + "cihan")) {
-    message.channel.send("maymun");
-  }
-  if (msg.startsWith(prefix + "altın çocuk")) {
-    message.channel.send("@Muhammed Emin");
+    let monke = Math.floor(Math.random() * 4);
+    if (monke === 1) {
+      message.channel.send(":monkey_face:");
+    }
+    if (monke === 2) {
+      message.channel.send(":speak_no_evil:");
+    }
+    if (monke === 3) {
+      message.channel.send(":monkey:");
+    }
   }
 });
 
