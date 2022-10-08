@@ -1,4 +1,4 @@
-## Login/Register Page
+## Satuhaz BOT
 
 Bu proje JavaScirpt kullanarak Discord'da arkadaşlarımla eğlenmek için geliştirdiğim bir Discord Botudur .Açıklamada verdiğim link üzerinden Satuhaz Botu Discord sunucunuza ekleyip kullanabilirsiniz. Komutlar için -help yazmanız yeterli :) .
 
