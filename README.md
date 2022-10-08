@@ -8,10 +8,9 @@ Bu proje JavaScirpt kullanarak Discord'da arkadaşlarımla eğlenmek için geli�
 
 ## Ekran Görüntüleri
 
-<div>
-<img src="https://github.com/ahmetenesbahar/food-recipe-app/blob/main/assets/screenshots/food-recipe-app-lime.vercel.app_.png">
-<img src="https://github.com/ahmetenesbahar/food-recipe-app/blob/main/assets/screenshots/food-recipe-app-lime.vercel.app_%20(1).png">
-
+<div >
+<img src="https://github.com/ahmetenesbahar/discord-bot-satuhaz/blob/main/screenshots/Satuhaz%20Bot.png">
+<img src="https://github.com/ahmetenesbahar/discord-bot-satuhaz/blob/main/screenshots/Satuhaz%20Bot(1).png">
 </div>
 
 ## Daha fazlası
