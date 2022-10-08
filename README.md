@@ -5,9 +5,10 @@ Bu proje JavaScirpt kullanarak Discord'da arkadaşlarımla eğlenmek için geli�
 ## Ekran Görüntüleri
 
 <div>
-<img src="https://github.com/ahmetenesbahar/discord-bot-satuhaz/blob/main/screenshots/Satuhaz%20Bot.png">
+  <img src="https://github.com/ahmetenesbahar/discord-bot-satuhaz/blob/main/screenshots/Satuhaz%20Bot(1).png">
 <br>
-<img src="https://github.com/ahmetenesbahar/discord-bot-satuhaz/blob/main/screenshots/Satuhaz%20Bot(1).png">
+  <img src="https://github.com/ahmetenesbahar/discord-bot-satuhaz/blob/main/screenshots/Satuhaz%20Bot.png">
+
 </div>
 
 ## Daha fazlası
